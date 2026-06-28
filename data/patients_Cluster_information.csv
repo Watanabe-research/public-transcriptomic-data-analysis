@@ -1,0 +1,151 @@
+patient,Cluster,Title,biopsy,response
+2,2,2B,10-14 days,responder
+2,2,2A,pretreatment,responder
+2,2,2C,90 days,responder
+5,2,5A,pretreatment,responder
+5,2,5C,90 days,responder
+5,2,5B,10-14 days,responder
+7,1,7B,10-14 days,responder
+7,1,7C,90 days,responder
+7,1,7A,pretreatment,responder
+8,2,8C,90 days,nonresponder
+8,2,8B,10-14 days,nonresponder
+8,2,8A,pretreatment,nonresponder
+9,2,9A,pretreatment,responder
+9,2,9B,10-14 days,responder
+9,2,9C,90 days,responder
+10,1,10A,pretreatment,responder
+10,1,10B,10-14 days,responder
+10,1,10C,90 days,responder
+11,2,11A,pretreatment,nonresponder
+11,2,11B,10-14 days,nonresponder
+11,2,11C,90 days,nonresponder
+12,2,12B,10-14 days,responder
+12,2,12C,90 days,responder
+12,2,12A,pretreatment,responder
+13,1,13A,pretreatment,responder
+13,1,13C,90 days,responder
+13,1,13B,10-14 days,responder
+14,2,14B,10-14 days,responder
+14,2,14A,pretreatment,responder
+14,2,14C,90 days,responder
+15,2,15A,pretreatment,responder
+15,2,15C,90 days,responder
+15,2,15B,10-14 days,responder
+17,1,17B,10-14 days,responder
+17,1,17C,90 days,responder
+17,1,17A,pretreatment,responder
+18,1,18B,10-14 days,responder
+18,1,18C,90 days,responder
+18,1,18A,pretreatment,responder
+19,2,19A,pretreatment,responder
+19,2,19C,90 days,responder
+19,2,19B,10-14 days,responder
+20,1,20C,90 days,responder
+20,1,20B,10-14 days,responder
+20,1,20A,pretreatment,responder
+21,1,21B,10-14 days,responder
+21,1,21A,pretreatment,responder
+21,1,21C,90 days,responder
+22,1,22B,10-14 days,responder
+22,1,22C,90 days,responder
+22,1,22A,pretreatment,responder
+23,2,23B,10-14 days,responder
+23,2,23C,90 days,responder
+23,2,23A,pretreatment,responder
+25,1,25B,10-14 days,responder
+25,1,25C,90 days,responder
+25,1,25A,pretreatment,responder
+27,2,27B,10-14 days,nonresponder
+27,2,27C,90 days,nonresponder
+27,2,27A,pretreatment,nonresponder
+28,2,28C,90 days,responder
+28,2,28A,pretreatment,responder
+28,2,28B,10-14 days,responder
+29,2,29A,pretreatment,responder
+29,2,29B,10-14 days,responder
+29,2,29C,90 days,responder
+30,1,30A,pretreatment,nonresponder
+30,1,30B,10-14 days,nonresponder
+30,1,30C,90 days,nonresponder
+31,1,31B,10-14 days,responder
+31,1,31C,90 days,responder
+31,1,31A,pretreatment,responder
+33,2,33B,10-14 days,nonresponder
+33,2,33A,pretreatment,nonresponder
+33,2,33C,90 days,nonresponder
+34,2,34A,pretreatment,responder
+34,2,34C,90 days,responder
+34,2,34B,10-14 days,responder
+35,1,35A,pretreatment,nonresponder
+35,1,35B,10-14 days,nonresponder
+35,1,35C,90 days,nonresponder
+36,1,36C,90 days,nonresponder
+36,1,36A,pretreatment,nonresponder
+36,1,36B,10-14 days,nonresponder
+39,2,39B,10-14 days,responder
+39,2,39A,pretreatment,responder
+39,2,39C,90 days,responder
+40,1,40C,90 days,responder
+40,1,40B,10-14 days,responder
+40,1,40A,pretreatment,responder
+41,1,41C,90 days,responder
+41,1,41A,pretreatment,responder
+41,1,41B,10-14 days,responder
+42,1,42B,10-14 days,nonresponder
+42,1,42A,pretreatment,nonresponder
+42,1,42C,90 days,nonresponder
+44,1,44A,pretreatment,nonresponder
+44,1,44C,90 days,nonresponder
+44,1,44B,10-14 days,nonresponder
+45,1,45C,90 days,responder
+45,1,45A,pretreatment,responder
+45,1,45B,10-14 days,responder
+47,2,47C,90 days,responder
+47,2,47B,10-14 days,responder
+47,2,47A,pretreatment,responder
+49,1,49C,90 days,responder
+49,1,49A,pretreatment,responder
+49,1,49B,10-14 days,responder
+50,1,50C,90 days,responder
+50,1,50A,pretreatment,responder
+50,1,50B,10-14 days,responder
+51,1,51A,pretreatment,responder
+51,1,51B,10-14 days,responder
+51,1,51C,90 days,responder
+52,1,52C,90 days,nonresponder
+52,1,52B,10-14 days,nonresponder
+52,1,52A,pretreatment,nonresponder
+53,1,53A,pretreatment,nonresponder
+53,1,53B,10-14 days,nonresponder
+53,1,53C,90 days,nonresponder
+55,1,55B,10-14 days,responder
+55,1,55A,pretreatment,responder
+55,1,55C,90 days,responder
+57,1,57A,pretreatment,responder
+57,1,57B,10-14 days,responder
+57,1,57C,90 days,responder
+58,2,58B,10-14 days,responder
+58,2,58A,pretreatment,responder
+58,2,58C,90 days,responder
+59,1,59A,pretreatment,nonresponder
+59,1,59C,90 days,nonresponder
+59,1,59B,10-14 days,nonresponder
+60,2,60C,90 days,responder
+60,2,60B,10-14 days,responder
+60,2,60A,pretreatment,responder
+63,1,63C,90 days,responder
+63,1,63B,10-14 days,responder
+63,1,63A,pretreatment,responder
+64,2,64C,90 days,responder
+64,2,64B,10-14 days,responder
+64,2,64A,pretreatment,responder
+65,1,65B,10-14 days,nonresponder
+65,1,65C,90 days,nonresponder
+65,1,65A,pretreatment,nonresponder
+68,1,68A,pretreatment,nonresponder
+68,1,68C,90 days,nonresponder
+68,1,68B,10-14 days,nonresponder
+69,1,69C,90 days,responder
+69,1,69A,pretreatment,responder
+69,1,69B,10-14 days,responder
